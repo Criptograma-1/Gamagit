@@ -20,7 +20,7 @@
 
 
 ## 💻 Sobre o projeto
-Gamagit é uma aplicação que exibe todos os repositórios de um usuário do GitHub
+Gamagit é uma aplicação que exibe todos os repositórios de um usuário do GitHub. Foi desenvolvido durante o treinamento React do Hiring Coders #2
 
 
 Projeto desenvolvido durante o **[Hiring Coders #2](https://www.hiringcoders.com.br/)** oferecida pela [VTEX](https://vtex.com/br-pt/) em parceria com a [Gama Academy](https://www.gama.academy/).
